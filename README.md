@@ -9,7 +9,7 @@ int main()
 {
 float area, radius,circum;
 printf("enter the circle radius:");
-scanf("%f",&r);
+scanf("%f",&radius);
 printf("the area of the circle is %f",calculate_area(radius);
 printf("the circumference of the circle is %f",circum_area(radius);
 }
