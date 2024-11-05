@@ -1,3 +1,9 @@
+
+float circum_area(float radius)
+{
+    return 2*3.14*radius;
+    }
+    
 #include<stdio.h>
 #define PI 3.14;
 int main()
